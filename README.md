@@ -2,5 +2,5 @@ C++ code for morse code generator based on the text entered. QT creator communit
 
 
                       
-                      ![image](https://github.com/user-attachments/assets/d57dc26c-bdcd-4f21-9356-d289e1bc33da)
+  ![image](https://github.com/user-attachments/assets/d57dc26c-bdcd-4f21-9356-d289e1bc33da)
 
